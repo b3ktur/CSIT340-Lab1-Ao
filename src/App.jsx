@@ -25,7 +25,7 @@ export default function App() {
         <br></br>
         Year level: Third year
         <br></br>
-        Hometown: Talisay City, Cebu
+        Hometown: Cebu City, Cebu
       </p>
     </section>
 
