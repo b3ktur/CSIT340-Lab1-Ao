@@ -1,4 +1,4 @@
-function App() {
+export default function App() {
   return (<div>
     <header class="max-w-2xl mx-auto px-6 pt-16">
       <h1 class="text-4xl font-semibold tracking-tight">Victor Junior B. Ao</h1>
@@ -59,5 +59,5 @@ function App() {
 </div>);       
 }
 
- export default App
+ 
         
